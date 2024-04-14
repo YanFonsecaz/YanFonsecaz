@@ -1,7 +1,7 @@
 ### Olá, Sou Yan Fonseca 👋
 
 - 🔭 Sou Estudante de Engenharia de Software
-- 🌱 Estudando SQL
+- 🌱 Estudando SQL,Python,AWS
 
 ##
 [![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanFonsecaz&show_icons=true&theme=moltack )](https://github.com/YanFonsecaz)
