@@ -1,4 +1,4 @@
-### Olá, Sou Yan fonseca 👋
+### Olá, Sou Yan Fonseca 👋
 
 - 🔭 Sou Estudante de Engenharia de Software
 - 🌱 Estudando SQL
@@ -11,7 +11,6 @@
 ##
 [<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="48">](https://www.python.org/)
 [<img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="48">](https://www.postgresql.org/)
-[<img src="https://img.icons8.com/color/96/000000/apache-airflow.png" alt="Apache Airflow" width="48">](https://airflow.apache.org/)
 [<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="48">](https://aws.amazon.com/)
 
 ##
