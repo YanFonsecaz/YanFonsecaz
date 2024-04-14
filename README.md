@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, Sou Yan fonseca 👋
 
-<!--
-**YanFonsecaz/YanFonsecaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou Estudante de Engenharia de Software
+- 🌱 Estudando SQL
 
-Here are some ideas to get you started:
+##
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanFonsecaz&show_icons=true&theme=moltack )](https://github.com/YanFonsecaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFonsecaz&layout=compact&theme=moltack )](https://github.com/Yanfonsecaz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+[<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="48">](https://www.python.org/)
+[<img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="48">](https://www.postgresql.org/)
+[<img src="https://img.icons8.com/color/96/000000/apache-airflow.png" alt="Apache Airflow" width="48">](https://airflow.apache.org/)
+[<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="48">](https://aws.amazon.com/)
+
+##
+ [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/yan-fonsecaz/)
+ [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="48"/>](mailto:yanfonsecacorp@gmail.com)
