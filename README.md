@@ -9,9 +9,8 @@
 
 
 ##
-[<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="48">](https://www.python.org/)
-[<img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="48">](https://www.postgresql.org/)
-[<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" width="48">](https://aws.amazon.com/)
+[<img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="96">](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="96">](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ##
  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/yan-fonsecaz/)
