@@ -9,7 +9,8 @@
 
 
 ##
-[<img src="https://img.icons8.com/?size=512&id=29469&format=png" alt="PHP Elephpant" width="60">](https://www.php.net/)
+[<img src="https://img.icons8.com/?size=512&id=29469&format=png" alt="PHP Elephpant" width="40">](https://www.php.net/)
+
 
 [<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="60">](https://en.wikipedia.org/wiki/C_(programming_language))
 
