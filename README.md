@@ -9,7 +9,7 @@
 
 
 ##
-[<img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="60">](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" width="60">](https://www.php.net/)
 [<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="60">](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ##
