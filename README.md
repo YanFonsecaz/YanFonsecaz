@@ -9,7 +9,11 @@
 
 
 ##
-[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-elephpant-the-elephant-mascot-of-php-is-an-elephant-logo-shadow-tal-revivo.png" alt="PHP Elephpant" width="60">](https://www.php.net/)
+[<img src="https://img.icons8.com/color/96/000000/php-elephant.png" alt="PHP Elephpant" width="60">](https://www.php.net/)
+[<img src="https://img.icons8.com/color/96/000000/php-elephant.png" alt="PHP Elephpant" width="60">](https://www.php.net/)
+<img src="https://img.icons8.com/color/96/000000/php-elephant.png" alt="PHP Elephpant" width="60">
+
+
 [<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="60">](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ##
