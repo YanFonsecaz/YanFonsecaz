@@ -9,9 +9,9 @@
 
 
 ##
-[<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" width="60">](https://www.php.net/)
-[<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="60">](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" width="50">](https://www.php.net/)
+[<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="50">](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ##
- [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="60"/>](https://www.linkedin.com/in/yan-fonsecaz/)
- [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="60"/>](mailto:yanfonsecacorp@gmail.com)
+ [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/yan-fonsecaz/)
+ [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="50"/>](mailto:yanfonsecacorp@gmail.com)
