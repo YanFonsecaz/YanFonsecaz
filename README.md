@@ -1,7 +1,7 @@
 ### Olá, Sou Yan Fonseca 👋
 
 - 🔭 Sou Estudante de Engenharia de Software
-- 🌱 Estudando Linguagem PHP,C
+- 🌱 Estudando Linguagem PHP
 
 ##
 [![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanFonsecaz&show_icons=true&theme=moltack )](https://github.com/YanFonsecaz)
@@ -10,7 +10,7 @@
 
 ##
 [<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" width="50">](https://www.php.net/)
-[<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C Language" width="50">](https://en.wikipedia.org/wiki/C_(programming_language))
+
 
 ##
  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/yan-fonsecaz/)
