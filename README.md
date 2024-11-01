@@ -8,8 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFonsecaz&layout=compact&theme=moltack )](https://github.com/Yanfonsecaz)
 
 ##
-[<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" width="50">](https://www.php.net/)
 [<img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="50">](https://www.python.org/)
+[<img src="https://img.icons8.com/color/96/000000/php.png" alt="PHP" width="50">](https://www.php.net/)
+
 
 ##
 [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/yan-fonsecaz/)
