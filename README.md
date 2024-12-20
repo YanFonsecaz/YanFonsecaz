@@ -3,8 +3,7 @@
 - 🔭 Sou Estudante de Engenharia de Software
 - 🌱 Estudando Linguagem JavaScript, Python, PHP
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFonsecaz&layout=compact&theme=moltack&card_width=450)](https://github.com/YanFonsecaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanFonsecaz&layout=compact&theme=moltack&card_width=450&hide=html,css)](https://github.com/YanFonsecaz)
 
 [![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanFonsecaz&show_icons=true&theme=moltack&card_width=450&line_height=25)](https://github.com/YanFonsecaz)  
 ##
